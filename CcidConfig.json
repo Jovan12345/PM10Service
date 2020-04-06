@@ -1,0 +1,18 @@
+{
+	
+	"database": {
+		"CicdPoc_DEV": {
+			"sql": "shared/AzureDEV"
+		
+		},
+		"Cicd_PROD": {
+			"sql": "shared/AzurePROD"
+			
+		
+	}
+
+	
+	
+}
+	
+}
