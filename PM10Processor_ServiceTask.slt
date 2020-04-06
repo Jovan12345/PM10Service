@@ -16,7 +16,7 @@
         },
         "pipeline_parameters": {
             "account": "shared/AzureDEV",
-            "stations": "[\"WesternRegion\",\"EasternRegion\",\"Centar\", \"Karpos\", \"Lisice\"]"
+            "stations": "[\"Skopje\"]"
         },
         "pipeline_path": "PM10Processor_Service",
         "snaplex_path": "IW-Ground"

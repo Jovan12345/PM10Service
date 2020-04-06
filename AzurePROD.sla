@@ -1,0 +1,102 @@
+{
+    "class_id": "com-snaplogic-snap-api-sql-accounts-azuresqldatabaseaccount",
+    "class_version": 1,
+    "migration_metadata": {
+        "source_org": "Interworks-Partner"
+    },
+    "property_map": {
+        "info": {
+            "label": {
+                "value": "AzurePROD"
+            },
+            "notes": {
+                "value": null
+            }
+        },
+        "settings": {
+            "advancedProperties": {
+                "value": {
+                    "acquireIncrement": {
+                        "value": 1
+                    },
+                    "autoCommit": {
+                        "value": true
+                    },
+                    "batchSize": {
+                        "value": 50
+                    },
+                    "checkoutTimeout": {
+                        "value": 10000
+                    },
+                    "fetchSize": {
+                        "value": 100
+                    },
+                    "idleConnectionTestPeriod": {
+                        "value": 5
+                    },
+                    "maxIdleTime": {
+                        "value": 30
+                    },
+                    "maxPoolSize": {
+                        "value": 50
+                    },
+                    "minPoolSize": {
+                        "value": 0
+                    },
+                    "retryAttempts": {
+                        "value": 0
+                    },
+                    "urlProperties": {
+                        "value": []
+                    }
+                }
+            },
+            "connectionProperties": {
+                "value": {
+                    "AzureJdbcTrustAllCertsProp": {
+                        "value": false
+                    },
+                    "AzureStorageAccountKeyProp": {
+                        "fp": "47350bca925101a6b508b7b53932e112ad50b600639a7ac218cd42561daba81e",
+                        "key": "account-cloud-managed-5b7548984dd5a8001fb7e9ca-2018-08-16T09:49:24-650697+00:00",
+                        "sym_iv": "sIKhyE8LHqIHmQAvYs3Jvg==",
+                        "sym_key": "FFayXndhw/NkEGHh2naeAZzlKg3qUWa3l4+NmC9TVQRWj7kac2Y50tftJi1PkkKX3tH7O68UlbZLo0tI9g433Tt3KMs9mImV6JMyCk6/Ssu6AfYh+ngP8QzedR6LjCFR5nVIkKoTGxtEgs4+HrAIDr6bzb+g9HBTN48Q6JPTOh7EwHvwofO0iWhCLpv3l+Tlytt+oKfZ8qPcE1RIdYz5LZCCqt0AQrlrJ7HVY3OWYu1hdckC+JOS/ylYu7sFe+APR/7qJ6fcwwccYTJqe7dKyBVXZFhdsg+eC4dHKYCKRmgeIrCaOQMWdUW5YYl3Ly4P7XArSBMLPhM1qJpGoW7Ahw==",
+                        "value": "UU1ez30/QIPnAo8RoTd7Uw=="
+                    },
+                    "AzureStorageAccountNameProp": {
+                        "value": null
+                    },
+                    "AzureStorageContainerNameProp": {
+                        "value": null
+                    },
+                    "JdbcDriversProp": {
+                        "value": []
+                    },
+                    "databaseName": {
+                        "value": "CICD_POC"
+                    },
+                    "hostname": {
+                        "value": "iwframework.database.windows.net"
+                    },
+                    "jdbcDriverClass": {
+                        "value": "com.microsoft.sqlserver.jdbc.SQLServerDriver"
+                    },
+                    "password": {
+                        "fp": "47350bca925101a6b508b7b53932e112ad50b600639a7ac218cd42561daba81e",
+                        "key": "account-cloud-managed-5b7548984dd5a8001fb7e9ca-2018-08-16T09:49:24-650697+00:00",
+                        "sym_iv": "/fnzzgbYt0ZvEhTAH5x5xg==",
+                        "sym_key": "LtAXoPlG2HbuwkAVAjffnA/v7ZPS/P+nOIIwq7orYGs8yooAinApTL2IxgUXsJdH3HGQvCQztV5mF/W5lKgvCsx9OvP5/vjxfg5XSYwmZKTnEsb+b1IKoX/S99dzLIzkz/95eIOvwjYVglJ0evszmFKJpVW7JO7xm/OAkApt4ytoGDiY5bPwbaBHZ6hha/wPo6seRoi9Z1hDn0j6Y4UjiYIu/22DXGmRnRtfxOUOR+c7sLiGkQIBY01XLlsjZVW3cX2TC0t7BKBP6WiC2H/Df8VMOElQiicnYY/o9f9k6YoO/XUydY+oR4c4HzJOX315GKm2v1Rbq9rmfrz+ZxN/NQ==",
+                        "value": "lNA/bMae3ln3fKlbr8P+QQ=="
+                    },
+                    "portNumber": {
+                        "value": 1433
+                    },
+                    "username": {
+                        "value": "snaplogic"
+                    }
+                }
+            }
+        },
+        "view_serial": 100
+    }
+}
