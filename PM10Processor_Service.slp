@@ -164,6 +164,8 @@
             }
         }
     },
+    "read_only": false,
+    "recovery_metadata": {},
     "render_map": {
         "default_snaplex": null,
         "detail_map": {
