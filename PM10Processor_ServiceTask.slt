@@ -15,8 +15,8 @@
             "recipients": null
         },
         "pipeline_parameters": {
-            "account": "shared/AzureDEV",
-            "stations": "[\"Skopje\"]"
+            "account": "AzureDBPMService",
+            "stations": "Karpos"
         },
         "pipeline_path": "PM10Processor_Service",
         "snaplex_path": "IW-Ground"
