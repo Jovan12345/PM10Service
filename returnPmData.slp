@@ -50,8 +50,6 @@
             }
         }
     },
-    "read_only": false,
-    "recovery_metadata": {},
     "render_map": {
         "default_snaplex": null,
         "detail_map": {
@@ -159,6 +157,5 @@
                 "view_serial": 101
             }
         }
-    },
-    "target_runtime": "standard"
+    }
 }
